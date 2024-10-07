@@ -1,9 +1,11 @@
 flask[async]
 gunicorn[gthread]
 numpy
-pandas
+pandas==2.2.2
 Requests
 aiohttp
 multiprocess
 scikit_learn
 python-dotenv
+torch
+tensorflow
